@@ -1,0 +1,12 @@
+regex
+pandas
+emoji
+plotly
+nltk
+stopwords
+datetime
+matplotlib
+seaborn
+Pillow
+wordcloud
+nbformat
